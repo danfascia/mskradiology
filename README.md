@@ -17,3 +17,10 @@ A list of awesome MSK radiology resources
 
 ## Evidence based Medicine
 - [Corticosteroids should not be used for epicondylitis](https://jamanetwork.com/journals/jama/fullarticle/1568252)
+
+## Sport
+- [Imaging of Muscle Injuries in Sports Medicine: Sports Imaging Series](https://pubs.rsna.org/doi/full/10.1148/radiol.2017160267)
+- [Imaging muscle injury (including classification)](https://radiologycorelectures.org/msk/iss105-oconnor/)
+
+## Ultrasound
+- [Introduction to MSK ultrasound](https://radiologycorelectures.org/msk/iss141-jacobson/)
