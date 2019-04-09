@@ -11,6 +11,12 @@ A list of awesome MSK radiology resources
 ## Shoulder
 - [Pitcher's shoulder pain facts](https://www.p2sportscare.com/shoulder-pain-pitching/) Interesting resource with lots of good references and diagrams
 
+### Rotator Cuff
+- [Full-Thickness and Partial-Thickness Supraspinatus Tendon Tears: Value of US Signs in Diagnosis](https://pubs.rsna.org/doi/10.1148/radiol.2301020418?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed) Useful statistics on different signs indicative of rotator cuff tear and accuracy of those
+-[The Association Between Irregular
+Greater Tuberosities and Rotator
+Cuff Tears](https://www.ajronline.org/doi/pdf/10.2214/ajr.171.1.9648794) 75% of people with an 'irregular' greater tuberosity on plain film have a rotator cuff (supraspinatus) tear
+
 ## Hip
 - [Hamstring Muscle Complex pictorial review](https://pubs.rsna.org/doi/full/10.1148/rg.253045711#R10)
 - [Ficat & Arlet Classification of femoral AVN](https://radiopaedia.org/articles/ficat-and-arlet-classification-of-avascular-necrosis-of-femoral-head?lang=gb)
