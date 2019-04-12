@@ -30,3 +30,6 @@ Cuff Tears](https://www.ajronline.org/doi/pdf/10.2214/ajr.171.1.9648794) 75% of 
 
 ## Ultrasound
 - [Introduction to MSK ultrasound](https://radiologycorelectures.org/msk/iss141-jacobson/)
+
+## AI
+- [Bone Age](https://16bit.ai/bone-age)
