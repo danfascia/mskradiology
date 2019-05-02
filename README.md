@@ -1,4 +1,5 @@
- 
+
+
 # Awesome MSK Radiology Resources
 A list of awesome MSK radiology resources
 
@@ -52,3 +53,8 @@ Suggested joint volumes for therapeutic and arthrographic injections
 | 1st MTP joint  | 2mL              |
 | Other MTP joints | 1mL            |
 | Talonavicular / Naviculocuneiform | 1mL |
+| AC and SC joints | 0.5mL          |
+| Facet joints    | 1mL             |
+
+* For therapeutic joint injections a mixture of ropivacaine or dilute (0.25%) levobupivacaine and steroid
+* Intra-articular lidocaine is to be avoided due to chondrotoxicity
