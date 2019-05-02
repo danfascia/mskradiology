@@ -33,3 +33,22 @@ Cuff Tears](https://www.ajronline.org/doi/pdf/10.2214/ajr.171.1.9648794) 75% of 
 
 ## AI
 - [Bone Age](https://16bit.ai/bone-age)
+
+## Joint volumes
+
+Suggested joint volumes for therapeutic and arthrographic injections
+
+|    Target      |    Volume        |
+|---             |---               |
+| Hip            | 5-10mL           |
+| Shoulder       | 5-10mL           |
+| Ankle          | 5mL              |
+| Knee           | 5-10mL           |
+| Elbow          | 3mL              |
+| Wrist (radiocarpal)| 1-2mL        |
+| Mid Carpal row | 1mL              |
+| Trapeziometacarpal | 1mL          |
+| ST-T joint     | 1mL              |
+| 1st MTP joint  | 2mL              |
+| Other MTP joints | 1mL            |
+| Talonavicular / Naviculocuneiform | 1mL |
